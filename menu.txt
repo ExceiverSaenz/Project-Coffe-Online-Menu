@@ -1,0 +1,16 @@
+Item_Name Is_Beverage Cost
+Mocha_Cookie_Crumble_Frapp TRUE 3.95
+Impossible_Breakfast_Sandwich FALSE 4.65
+Almond_Shaken_Espresso TRUE 2.95
+Vanilla_Latte TRUE 3.85
+Chicken_Bacon_Panini FALSE 4.85
+Iced_Black_Tea TRUE 3.65
+Birthday_Cake_Pop FALSE 2.75
+Cold_Brew TRUE 3.95
+Very_Berry_Hibiscus_Refresher TRUE 4.25
+Cheese_Danish FALSE 4.95
+Iced_Passion_Tango_Tea_Lemonade TRUE 3.55
+Red_Velvet_Frappuccino TRUE 4.75
+Chocolate_Croissant FALSE 4.25
+Banana_Nut_Bread FALSE 3.65
+Carrot_Cake FALSE 5.55

@@ -14,7 +14,7 @@ public class CL1_Saenz_Exceiver{
 
 		
 		while(number != 5){
-				System.out.println("Welcome to Mejia Coffee! Please select an option below to continue:\n1. Display Menu\n2. Add item to order\n3. View cart\n4. Checkout\n5. Exit Mejia Coffee\n>");
+				System.out.println("Welcome! Please select an option below to continue:\n1. Display Menu\n2. Add item to order\n3. View cart\n4. Checkout\n5. Exit Mejia Coffee\n>");
 
 				number = input.nextInt();
 

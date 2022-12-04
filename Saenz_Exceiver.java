@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.File;
 
-public class Saenz_Exceiver{
+public class CL1_Saenz_Exceiver{
 
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
